@@ -294,6 +294,10 @@
     "@babel/helper-validator-identifier" "^7.22.15"
     to-fast-properties "^2.0.0"
 
+"@base-open/web-api@https://lf3-static.bytednsdoc.com/obj/eden-cn/nuptlgbpx/@base-open/web-api/base-open-web-api-0.1.6-alpha.7.tgz":
+  version "0.1.6-alpha.7"
+  resolved "https://lf3-static.bytednsdoc.com/obj/eden-cn/nuptlgbpx/@base-open/web-api/base-open-web-api-0.1.6-alpha.7.tgz#80d2c01fcc79773bd9cfc873d8d460609cf314d5"
+
 "@ctrl/tinycolor@^3.4.0", "@ctrl/tinycolor@^3.6.0":
   version "3.6.1"
   resolved "https://registry.npmmirror.com/@ctrl/tinycolor/-/tinycolor-3.6.1.tgz#b6c75a56a1947cc916ea058772d666a2c8932f31"
